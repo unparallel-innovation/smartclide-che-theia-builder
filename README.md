@@ -8,7 +8,7 @@ of the host machine.
 In order to obtain a Che-Theia image with custom extensions, the steps below must be followed:
 
 1. Run Docker.
-2. Clone the [SmartCLIDE Che-Theia repository](https://github.com/eclipse-opensmartclide/smartclide-che-theia).
+2. Clone [this repository](https://github.com/unparallel-innovation/smartclide-che-theia-builder).
 3. Open the directory in VS Code.
 4. Press the "Reopen in Container" button to launch the devcontainer.
 5. Copy the extensions source code into the _extensions_ folder.
