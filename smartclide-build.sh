@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-GITHUB_TOKEN="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"
+GITHUB_TOKEN=""
 
 docker builder prune -f
 
